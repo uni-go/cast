@@ -1,10 +1,12 @@
-# Cast Package Documentation
+# Golang Dynamic Type Cast
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/uni-go/cast.svg)](https://pkg.go.dev/github.com/uni-go/cast)
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/uni-go/cast/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/uni-go/cast)](https://goreportcard.com/report/github.com/uni-go/cast)
+![Contributors](https://img.shields.io/github/contributors/uni-go/cast)
+![Issues](https://img.shields.io/github/issues/uni-go/cast)
 
 The `cast` package provides utilities for type casting and conversion in Go. It includes functions for converting values to various Go types, such as `bool`, `int`, `uint`, `float`, `string`, and their respective slices. Additionally, it offers a `Caster` interface for more structured type conversion.
-
-[![Go Reference](https://pkg.go.dev/badge/github.com/uni-go/cast.svg)](https://pkg.go.dev/github.com/uni-go/cast)  
-[![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/uni-go/cast/blob/main/LICENSE)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/uni-go/cast)](https://goreportcard.com/report/github.com/uni-go/cast)
 
 ## Installation
 
