@@ -1,5 +1,6 @@
 # Golang Dynamic Type Cast
 
+![GitHub Tag](https://img.shields.io/github/v/tag/uni-go/cast?sort=semver&label=version)
 [![Go Reference](https://pkg.go.dev/badge/github.com/uni-go/cast.svg)](https://pkg.go.dev/github.com/uni-go/cast)
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/uni-go/cast/blob/main/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/uni-go/cast)](https://goreportcard.com/report/github.com/uni-go/cast)
